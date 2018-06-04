@@ -1,0 +1,2 @@
+# simply_font_awesome
+his is the second video explaining how to use font-awesome to make your designs look better. On the first video we covered how to use font-awesome in adobe illustrator by setting it as a normal font. In this video we are going to cover and show how to use font-awesome in our webpage. We are also going to use the font-awesome as links to take you to take description when it is clicked. 
