@@ -1,0 +1,209 @@
+ 
+   
+   
+
+    #head{
+    width: 100%;
+    height: 100px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    background-color: #f2f3f3;
+   }
+   #head h1{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 50pt;
+    text-align: center;
+   }
+
+   #page{
+    width: 960px;
+    overflow: auto;
+
+    border: 0px solid black;
+    margin: 0px auto 0px auto;
+    margin-top: 150px;
+   }
+   
+   
+   nav{
+    border: 0px solid white;
+    width: 960px;
+    height: auto;
+    height: 100px;
+    margin: 0px auto 0px auto;
+   }
+
+   a{
+
+    text-decoration: none;
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 15pt;
+    margin: 15px;
+
+   }
+
+
+   #first{
+    border: 0px solid black;
+    width: 200px;
+    float:left;
+    margin-top: 75px;
+
+   }
+   #second{
+    border: 0px solid black;
+    width: 200px;
+    display: inline;
+    float: right;
+    margin-top: 75px;
+
+   }
+
+  div.staff{
+         border: 1px solid black; 
+    
+   }
+
+ 
+   /* Content management system  */
+
+    .content{
+    
+    margin-top: 15px;
+    height: 500px;
+    overflow:hidden;
+           
+       }
+ 
+ .content img{
+    width: 400px;
+    float: left;
+    margin-right: 10px;
+       
+ }
+
+ .content p{
+  width: 820px;
+  text-align: left;
+  margin-top: 50px;
+  padding: 10px;
+ }
+
+ .content h2{
+  font-family: 'Noto Sans', sans-serif;
+ }
+
+ .content a{
+ color: black;
+ background-color: #de5755;
+ text-align: center;
+ max-width: 300px;
+  border: 1px solid black;
+  margin-left: 10px;
+  margin-top: 200px;
+  padding: 4px;
+
+ }
+
+ .content a:hover{
+  color: white;
+  border: 0px solid black;
+ }
+     
+a.html5{
+      
+       font-size: 70pt;
+       color: #f15a24;
+       }
+       a.css3{
+        color: #2277ff;
+        font-size: 70pt;
+       }
+       #fonts{
+
+        width: 960px;
+         margin: 0px auto 0px auto;
+
+        
+
+       }
+
+       #html5Box{
+       
+       margin-top: 250px;
+       width: 100%;
+       height: auto;
+       background-color: #f15a24;
+       }
+
+       #css3Box{
+       
+       margin-top: 50px;
+       width: 100%;
+       height: auto;
+       background-color: #2277ff;
+       }
+
+
+        .lesson p{
+          font-family: 'Noto Sans', sans-serif;
+          position: relative;
+          width: 960px;
+          display: block;
+          margin: 0px auto 0px auto;
+          margin-top: 15px;
+          color: white;
+          
+        }
+
+         .lesson h2{
+          font-family: 'Noto Sans', sans-serif;
+          position: relative;
+          top: 10px;
+          width: 960px;
+          display: block;
+          
+          margin: 0px auto 0px auto;
+
+          color: white;
+          
+          
+        }
+
+        .smile{
+          position: absolute;
+          left: 900px;
+          color: green;
+
+         
+        }
+
+
+
+
+
+   footer{
+    position: relative;
+    width: 100%;
+    height: 100px;
+    background-color:#f2f3f3;
+    bottom: 0px;
+    border: 1px solid black;
+    margin-top: 50px;
+   
+
+   }
+
+   footer p{
+    position: relative;
+    text-align: center;
+    top: 40px ;
+    margin: 0px auto 0px auto;
+    font-family: 'Noto Sans', sans-serif;
+    color: black;
+
+    font-size: 15pt;
+   }
+
+
